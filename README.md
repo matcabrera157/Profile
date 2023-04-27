@@ -19,7 +19,7 @@ Hi! I'm Matias, a Web Developer from Argentina 🚀.
 -  **Contact me :** [Matias Cabrera](https://linkedin.com/in/matias-cabrera-9a22b31a6)
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-cabrera-9a22b31a6) 
 
 # 💻 Tech Stack:
