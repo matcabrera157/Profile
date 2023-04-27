@@ -13,9 +13,9 @@ Hi! I'm Matias, a Web Developer from Argentina 🚀.
 
 ## About
 
--  **Learning :** Full-Stack Development :zap: |  
+-  **Learning :** Full-Stack Development 👨‍💻 |  
 -  **Languages :** JavaScript
--  **Hobbies :** Music :headphones:
+-  **Hobbies :** Basketball 🏀 and Music 🎧
 -  **Contact me :** [Matias Cabrera](https://linkedin.com/in/matias-cabrera-9a22b31a6)
 
 
