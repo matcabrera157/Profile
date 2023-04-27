@@ -2,11 +2,12 @@
 
 Hi! I'm Matias, a Web Developer from Argentina 🚀.
 
-About
-Learning : Full-Stack Development ⚡ |
-Languages : JavaScript
-Hobbies : gardening 🍒 & Music 🎧
-Contact me : [![Matias Cabrera](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-cabrera-9a22b31a6)
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Java    
+-  **Languages :** JavaScript, PHP, Python
+-  **Hobbies :** Music :headphones:
+-  **Contact me :** [Matias Cabrera](https://linkedin.com/in/matias-cabrera-9a22b31a6)
 
 
 ## 🌐 Socials:
