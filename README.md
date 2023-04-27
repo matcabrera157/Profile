@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 Hi! I'm Matias, a Web Developer from Argentina 🚀.
 
 ### About
