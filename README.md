@@ -4,17 +4,17 @@
 <a href="https://github.com/matcabrera157">
   <img align="left" alt="Matias Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-</br>
+
 <div align="center">
-<p align="center">Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p> </br> 
+<p align="center">Welcome to my page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p> 
 </div>
 
 Hi! I'm Matias, a Web Developer from Argentina 🚀.
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Java    
--  **Languages :** JavaScript, PHP, Python
+-  **Learning :** Full-Stack Development :zap: |  
+-  **Languages :** JavaScript
 -  **Hobbies :** Music :headphones:
 -  **Contact me :** [Matias Cabrera](https://linkedin.com/in/matias-cabrera-9a22b31a6)
 
