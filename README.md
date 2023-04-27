@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Hi! I'm Matias, a Web Developer from Argentina 🚀.
+
+About
+Learning : Full-Stack Development ⚡ |
+Languages : JavaScript
+Hobbies : gardening 🍒 & Music 🎧
+Contact me : [![Matias Cabrera](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-cabrera-9a22b31a6)
 
 
 ## 🌐 Socials:
